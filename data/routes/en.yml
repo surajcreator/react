@@ -1,0 +1,10 @@
+id: home-page
+fields:
+  pageTitle: Welcome to Sitecore JSS
+placeholders:
+  jss-main:
+    - componentName: HomeCarousel
+      fields:
+        CarouselItems:
+        - id: restuarant-hero
+        - id: restuarant-hero-2

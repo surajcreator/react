@@ -1,0 +1,14 @@
+id: restaurant-menu
+fields: 
+  pageTitle: Restautant menu component
+  menu: 
+  - id: menu-item-1
+  - id: menu-item-2
+  - id: menu-item-3
+placeholders: 
+  jss-main:
+    - componentName: RestaurantMenu
+      fields: 
+        ComponentTitle: Al-Fanar Menus
+        ComponentBackground: beige
+

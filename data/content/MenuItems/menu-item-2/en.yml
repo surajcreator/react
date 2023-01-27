@@ -1,0 +1,8 @@
+id: menu-item-2
+displayName: Menu item 2
+template: MenuItem-Template
+fields:
+  ItemName: Surf and Turf
+  ItemType: Non-veg
+  ItemDetail: Item description of Surf and Turf
+

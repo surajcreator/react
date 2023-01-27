@@ -1,0 +1,18 @@
+id: articles-1
+fields:
+  pageTitle: Articles 1
+placeholders:
+  jss-main:
+    - componentName: Article
+      fields:
+        articleTitle: This is my first article page
+        articleDescription: |
+            <p>This is article description</p>
+            <ol>
+              <li>Point1</li>
+              <li>Point2</li>
+              <li>Point3</li>
+            </ol>
+        articleAuthor:
+          id: author-1
+        articlePublishedDate: 06-Jan-2023

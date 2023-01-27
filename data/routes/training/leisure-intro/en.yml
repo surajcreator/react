@@ -1,0 +1,17 @@
+id: leisure-intro
+
+fields:
+  pageTitle: Leisure Intro
+placeholders:
+  jss-main:
+    - componentName: LeisureIntro
+      fields:
+        Title: Meditation
+        Description: |
+          <p>Thanks for visiting us!</p>
+        PageTitle: Meditation
+        LeisureType: lorem epsum
+        OpeningHrs: 9am
+        DressCode: Casual
+        BaggageLimits: one
+        ParkingAvailability: available
